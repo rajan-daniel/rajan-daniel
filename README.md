@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**rajan-daniel/rajan-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Rajan](https://www.rajandaniel.com/), a full-stack engineer based in Illinois.
 
-Here are some ideas to get you started:
+I focus on building clean, production-ready applications and services that users can start using right away.  
+I am currently working on myBillTracker and building websites for businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack & Tools
+
+**Favorite Tech Stack**  
+TypeScript · React · Next.js · Tailwind CSS · Supabase · Vercel  
+
+**Favorite Tools**  
+GitHub · VS Code · Git Bash · OpenAI  
+
+---
+
+Thanks for stopping by—I hope you enjoy your stay. Feel free to explore my projects and reach out anytime at me@rajandaniel.com or rajan.daniel.dev@gmail.com.
