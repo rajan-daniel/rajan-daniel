@@ -11,7 +11,7 @@ I am currently working on myBillTracker and building websites for businesses.
 TypeScript · React · Next.js · Tailwind CSS · Supabase · Vercel  
 
 **Favorite Tools**  
-GitHub · VS Code · Git Bash · OpenAI · Claude AI
+GitHub · VS Code · Git Bash · Obsidian · OpenAI · Claude AI
 
 ---
 
