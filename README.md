@@ -7,11 +7,9 @@ I am currently working on myBillTracker and building websites for businesses.
 
 ## Tech Stack & Tools
 
-**Favorite Tech Stack**  
-TypeScript · React · Next.js · Tailwind CSS · Supabase · Vercel  
-
-**Favorite Tools**  
-GitHub · VS Code · Git Bash · Obsidian · OpenAI · Claude AI
+**Programming Languages:** TypeScript, JavaScript, Python, SQL, HTML, CSS\
+**Frameworks/Libraries:** React, Next.js, FastAPI, Tailwind CSS\
+**Tools & Technologies:** PostgreSQL, Docker, Git, GitHub, CI/CD, REST APIs, Vercel, Railway, Claude AI, Supabase
 
 ---
 
