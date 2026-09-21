@@ -9,7 +9,7 @@ I am currently working on myBillTracker and building websites for businesses.
 
 **Programming Languages:** TypeScript, JavaScript, Python, SQL, HTML, CSS\
 **Frameworks/Libraries:** React, Next.js, FastAPI, Tailwind CSS\
-**Tools & Technologies:** PostgreSQL, Docker, Git, GitHub, CI/CD, REST APIs, Vercel, Railway, Claude AI, Supabase
+**Tools & Technologies:** PostgreSQL, Docker, Git, GitHub, CI/CD, REST APIs, Vercel, Claude AI, Supabase
 
 ---
 
