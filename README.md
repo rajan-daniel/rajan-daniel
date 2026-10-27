@@ -12,6 +12,6 @@ I am currently working on myBillTracker and building websites for businesses.
 **Tools & Technologies:** PostgreSQL, Docker, Git, GitHub, CI/CD, REST APIs, Vercel, Claude AI, Supabase
 
 ---
-Currently working on DeckDen https://deck-den.vercel.app/
+Currently developing the DeckDen https://deck-den.vercel.app/
 ---
 Thanks for stopping by—I hope you enjoy your stay. Feel free to explore my projects and reach out anytime at me@rajandaniel.com or rajan.daniel.dev@gmail.com.
