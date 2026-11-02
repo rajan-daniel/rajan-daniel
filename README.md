@@ -14,4 +14,4 @@ I am currently working on DeckDen an online trading card deck tracker.
 ---
 Currently developing the DeckDen https://deck-den.vercel.app/
 ---
-Thanks for stopping by—I hope you enjoy your stay. Feel free to explore my projects and reach out anytime at me@rajandaniel.com or rajan.daniel.dev@gmail.com.
+Thanks for stopping by—I hope you enjoy your stay. Feel free to explore my projects and reach out anytime at me@rajandaniel.com or rajan.daniel.dev@gmail.com. Would love to collaborate on a project!
