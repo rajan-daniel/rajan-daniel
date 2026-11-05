@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 I'm [Rajan](https://www.rajandaniel.com/), a full-stack engineer based in Illinois.
-
-I focus on building clean, production-ready applications and services that users can start using right away.  
 I am currently working on DeckDen an online trading card deck tracker.
 
 ## Tech Stack & Tools
